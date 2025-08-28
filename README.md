@@ -10,11 +10,12 @@ It is designed to help understand **object-oriented programming (OOP) concepts**
 ---
 
 ## 📂 Project Structure
+```
 ONLINESHOPPING/
-├── include/ # Header files (.h)
-├── src/ # Implementation files (.cpp)
-├── shopping.exe # Compiled executable (Windows)
-└── Class_Diagram.docx # Detailed documentation & UML
+├── include/         
+├── src/      
+          
+```
 
 
 ---
@@ -37,10 +38,11 @@ g++ -I include src/*.cpp -o shopping.exe
 
 ```
 
-2️⃣ Run
+### **2. Run**
+```bash
 ./shopping.exe      # Linux / Mac
 .\shopping.exe      # Windows (PowerShell)
-
+```
 
 
 ## 📖 Documentation
