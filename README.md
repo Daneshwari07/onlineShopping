@@ -35,7 +35,9 @@ ONLINESHOPPING/
 ```bash
 g++ -I include src/*.cpp -o shopping.exe
 
-### **2. Run**
+```
+
+2️⃣ Run
 ./shopping.exe      # Linux / Mac
 .\shopping.exe      # Windows (PowerShell)
 
